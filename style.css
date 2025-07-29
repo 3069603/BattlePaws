@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+header {
+  background-color: #1a1a1a;
+  text-align: center;
+  padding: 20px;
+}
+
+.banner {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+main {
+  padding: 30px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.description h2 {
+  color: #2b2b2b;
+  margin-top: 40px;
+}
+
+.description p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.gallery h2 {
+  text-align: center;
+  margin: 50px 0 20px;
+}
+
+.nft-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.nft-grid img {
+  width: 300px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 40px;
+  gap: 20px;
+}
+
+.btn {
+  background-color: #4b0082;
+  color: white;
+  text-decoration: none;
+  padding: 15px 30px;
+  border-radius: 30px;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #6a0dad;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #1a1a1a;
+  color: white;
+  margin-top: 60px;
+}
