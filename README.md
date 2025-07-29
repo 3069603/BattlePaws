@@ -1,4 +1,4 @@
-# BattlePaws of Azeria — NFT Collection Website
+# BattlePaws of Azeria - NFT Collection Website
 
 This is the official landing page for the NFT collection **BattlePaws of Azeria**.
 
@@ -8,7 +8,7 @@ To preview the site, open `index.html` in your browser or deploy via GitHub Page
 
 ## 📁 Structure
 
-- `index.html` — Main HTML file
+- `index.html` - Main HTML file
 - `style.css` — Styling
 - `banner.png` — Banner image for the top section
 - `avatar.png` — Avatar image
@@ -18,15 +18,6 @@ To preview the site, open `index.html` in your browser or deploy via GitHub Page
 
 - 🌐 View on [Getgems](https://getgems.io/BattlePaws)
 - 📬 Contact via [Telegram](https://t.me/by3069603)
-
-## 📦 Deployment
-
-To deploy via GitHub Pages:
-
-1. Push this repository to GitHub.
-2. Go to **Settings** → **Pages**.
-3. Choose the main branch and `/root` as source.
-4. Your site will be live at: `https://yourusername.github.io/repository-name/`
 
 ## 💬 Description
 
